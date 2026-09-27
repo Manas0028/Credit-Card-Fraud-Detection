@@ -2,3 +2,7 @@
 Dataset/creditcard.csv
 Dataset/creditcard_cleaned.csv
 Dataset/creditcard_sql.csv
+
+# Large project files
+Excel/Credit_Card_Fraud_Analysis.xlsx
+PowerBI/Credit_Card_Fraud_Detection_Dashboard.pbix
